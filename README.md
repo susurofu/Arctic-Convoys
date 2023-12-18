@@ -1,1 +1,1 @@
-This is a Jupyter Notebook with the code used for the presentation given at Arctic Research Center, Hokkaido University on 19 December 2023.
+This is a Jupyter Notebook with the code used for the presentation "Imaging Arctic and Polar Seas in Naval Fiction about Arctic Convoys" given at Arctic Research Center, Hokkaido University on 19 December 2023.
